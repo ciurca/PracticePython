@@ -1,4 +1,4 @@
-#Exercises 
+# Exercises
  
 1: Character Input ✅  
 2: Odd Or Even  
