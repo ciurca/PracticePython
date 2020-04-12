@@ -1,5 +1,6 @@
-#Exercises 
- 
+#Exercise
+
+
 1: Character Input ✅  
 2: Odd Or Even  
 3: List Less Than Ten  
