@@ -1,5 +1,7 @@
-# Exercises
- 
+<<<<<<< HEAD
+#Exercises
+
+>>>>>>> 6c24a6e951ba4c91052b57d8e08a9d0aa70d96ef
 1: Character Input ✅  
 2: Odd Or Even  
 3: List Less Than Ten  
