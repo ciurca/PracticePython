@@ -41,13 +41,13 @@ def bonus2():
             num3 = int(input("Enter a number to check: "))
             break
         except ValueError:
-            print("You need to enter a number")
+            print("You need to enter a number.")
     while True:
         try:
             check = int(input("Enter a number to divide by: "))
             break
         except ValueError:
-            print("You need to enter a number")
+            print("You need to enter a number.")
     if check % num3 == 0:
         print(f"The number {check} divides evenly into {num3}.")
     else:
