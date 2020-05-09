@@ -1,3 +1,5 @@
+[![ProjectsBadge](https://img.shields.io/badge/ciurca-100DaysOfCode%20--%20Projects-blue)](https://github.com/ciurca/100-days-of-code)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raduciurca.svg?style=social&label=Follow%20%40raduciurca)](https://twitter.com/raduciurca)
 [![time tracker](https://wakatime.com/badge/github/ciurca/PracticePython.svg)](https://wakatime.com/badge/github/ciurca/PracticePython)
 # Exercise list
 1.  ✔[Character Input](https://www.practicepython.org/exercise/2014/01/29/01-character-input.html)    ![](https://www.practicepython.org/assets/img/chili-liz-20x20.png)
